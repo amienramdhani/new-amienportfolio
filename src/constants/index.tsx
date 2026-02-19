@@ -132,6 +132,12 @@ const projectsData: ProjectType[] = [
     tags: ['Data', 'Analysis'],
     projectLink: 'https://educationds-amienramdhani.streamlit.app/',
   },
+  {
+    imgSrc: 'https://b.acaraseru.com/images/9a817daa-9997-457c-b89c-164dbce45fae/l-excel.png',
+    title: 'Excel Project',
+    tags: ['Data', 'Analysis'],
+    projectLink: 'https://drive.google.com/drive/folders/19CI0JmA4NvVUjTrEUvXZ6SayyhPyVUtX?usp=sharing',
+  },
 ];
 
 const education: ExperienceType[] = [
